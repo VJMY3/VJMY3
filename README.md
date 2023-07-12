@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @VJMY3
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m VIJAY
+- 👀 I’m interested in CODING
+- 🌱 I’m currently learning DIPLOMA CSE
+- 💞️ I’m looking to collaborate on GOOGLE
+- 📫 How to reach my GOAL
 
-<!---
-VJMY3/VJMY3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
